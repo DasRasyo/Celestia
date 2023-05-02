@@ -8,7 +8,7 @@ You can install any Celestia node with this script! Just run the script and foll
 How to Use
 
 ```
-wget -nd -m https://raw.githubusercontent.com/DasRasyo/humans.ai/main/setup.sh;\
+wget -nd -m https://raw.githubusercontent.com/DasRasyo/Celestia/main/setup.sh;\
 chmod 755 setup.sh;\
 ./setup.sh
 ```
